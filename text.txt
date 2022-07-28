@@ -1,0 +1,7 @@
+#연습장
+
+To do list
+
+1. PBF 비전데이터 Segmentation Detection 예시
+2. 용융풀 이미지와 온도 및 영역 값 매칭 분석
+3. 깃헙 관리 및 깃블로그 생성
